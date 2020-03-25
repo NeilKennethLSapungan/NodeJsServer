@@ -4,22 +4,19 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    
+    "dev":"nodemon server.js" 
   },
+
   "repository": {
     "type": "git",
     "url": "git+https://github.com/NeilKennethLSapungan/NodeJsServer.git"
   },
-  "author": "",
+
+  "author": "Neil Kenneth Sapungan",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/NeilKennethLSapungan/NodeJsServer/issues"
   },
-  "homepage": "https://github.com/NeilKennethLSapungan/NodeJsServer#readme",
-  "dependencies": {
-    "express": "^4.17.1"
-  },
-  "devDependencies": {
-    "nodemon": "^2.0.2"
-  }
+  "homepage": "https://github.com/NeilKennethLSapungan/NodeJsServer#readme"
 }
